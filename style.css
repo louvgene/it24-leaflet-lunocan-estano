@@ -1,0 +1,16 @@
+body {
+font-family: Arial, sans-serif;
+text-align: center;
+margin: 20px;
+}
+
+#map {
+height: 450px;
+width: 100%;
+border: 8px solid #44be5f;
+border-radius: 8px;
+}
+h1{
+    color: #010112;
+    font-family: Hoedown, cursive;
+}
