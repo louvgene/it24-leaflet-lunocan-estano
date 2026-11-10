@@ -28,8 +28,8 @@ map.on("click", function (event) {
 });
 
 const locations = [
-  { name: "Kitam-is Road", lat: 8.41266, lng:   124.82509, brgy: "Zone 3, Lunocan" },
-  { name: "Landmark", lat:  8.41442, lng: 124.82376, brgy: "Zone 1, Lunocan" },
+  { name: "Kitam-is Road Landmark", lat: 8.41266, lng:   124.82509, brgy: "Zone 3, Lunocan" },
+  { name: "Zone Landmark", lat:  8.41442, lng: 124.82376, brgy: "Zone 1, Lunocan" },
   { name: "San-Isidro Landmark", lat: 8.41908, lng:  124.83318, brgy: "Zone 5, Lunocan" },
   
 ];
