@@ -28,9 +28,9 @@ map.on("click", function (event) {
 });
 
 const locations = [
-  { name: "Lunocan Elementary School 🏫", lat: 8.41299, lng:  124.82646, brgy: "Zone 3, Lunocan" },
-  { name: "Barangay Hall 🏛️", lat:  8.41367, lng: 124.82456, brgy: "Zone 2, Lunocan" },
-  { name: "Catholic Church ⛪", lat: 8.41395, lng: 124.82505, brgy: "Zone 2, Lunocan" },
+  { name: "Kitam-is Road", lat: 8.41266, lng:   124.82509, brgy: "Zone 3, Lunocan" },
+  { name: "Landmark", lat:  8.41442, lng: 124.82376, brgy: "Zone 1, Lunocan" },
+  { name: "San-Isidro Landmark", lat: 8.41908, lng:  124.83318, brgy: "Zone 5, Lunocan" },
   
 ];
 
